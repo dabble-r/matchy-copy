@@ -45,6 +45,7 @@ var data = { results: [
   
     // Use the .length property to console.log the length of the results
     // array.
+  console.log(results.length);
   
     // Imagine you want are making a search results page,
     // (console.log) all of the animal names in order.
